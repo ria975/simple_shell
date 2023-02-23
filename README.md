@@ -111,7 +111,7 @@ total 100
 
 ## Credits
 This shell was developed by 
-- Gloria Owusu 
+- Gloria Owusu @github_https://github.com/ria975
 - Joshua Dei-Alorse @github _https://github.com/YoungKing-Joshua_
 
 as a project for _Alx Software Engineering C course_.
